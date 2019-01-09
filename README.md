@@ -1,8 +1,8 @@
 # Data Journalism Using Dynamic D3 Scatter Plot 
 ## Heroku demo +> https://d3times.herokuapp.com/
 ## Example snapshots
-![](/Images/screencapture1.png)
-![](/Images/screencapture2.png)
+![](/images/screencapture1.png)
+![](/images/screencapture2.png)
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
