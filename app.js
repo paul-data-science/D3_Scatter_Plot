@@ -86,7 +86,7 @@ d3.csv("data.csv", function(err, Data) {
       .attr("y", d => d[chosenYAxis])
       .attr("text", d => d["abbr"]);*/
     
-      var circleText = chartGroup.selectAll("text")
+      var circleText = chartGroup.selectAll("circleText")
       .data(Data)
       .enter()
       .append("text")
