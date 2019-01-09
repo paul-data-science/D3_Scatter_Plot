@@ -1,5 +1,7 @@
 # Unit 16 | Assignment - Data Journalism and D3
-
+# Example snapshots
+![](/images/screencapture1.png)
+![](/images/screencapture2.png)
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
 ## Background
